@@ -1,0 +1,28 @@
+{
+  "name": "csgoskintracker",
+  "version": "1.0.0",
+  "description": "Track csgo skin price",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "request": "^2.88.2",
+    "string-similarity": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Duy Pham",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamleduy04/csgoskintracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/phamleduy04/csgoskintracker/issues"
+  },
+  "homepage": "https://github.com/phamleduy04/csgoskintracker#readme"
+}
